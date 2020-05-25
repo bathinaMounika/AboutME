@@ -12,4 +12,7 @@
     \n\nOnce, When I was camping in Cananda, and very hungry,I even caught a large salmon with my hands.
     \n\nI\'ll be happy to teach you how to make your own aquarium.
     \nYou shoukd ask someone else about fishing, though.</string>
+    <string name="some_long_text">IAm a text view in linear Layout, which is Scroll View, which itself in Linear Layout</string>
+    <string name="what_is_your_nickname">What is your nick name?</string>
+    <string name="done_button">Done</string>
 </resources>
